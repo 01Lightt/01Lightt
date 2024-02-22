@@ -1,6 +1,6 @@
 - 👋 Hey, I’m João
 - 👀 I’m interested in tecnology and coding in general
-- 🌱 I’m currently learning Computational Engineering
+- 🌱 I’m currently learning Computational Engineering and IA
 - 💞️ I’m a person who loves to know new things
 - 📫 How to reach me: You can send me a mesage at my e-mail jortecabralolim.pro@gmail.com
 
