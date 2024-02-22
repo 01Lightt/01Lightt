@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Light
+- 👋 Hey, I’m João
 - 👀 I’m interested in tecnology and coding in general
 - 🌱 I’m currently learning Computational Engineering
 - 💞️ I’m a person who loves to know new things
