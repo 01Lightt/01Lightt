@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computational Engineering and IA
 - 💞️ I’m a person who loves to know new things
 - ⚒ Currently working at Bradesco
-- 📫 How to reach me: You can send me in my e-mail jortecabralolim.pro@gmail.com
+- 📫 How to reach me: jortecabralolim.pro@gmail.com
 
 <!---
 01Lightt/01Lightt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
